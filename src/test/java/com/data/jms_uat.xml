@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OutBoundNotificationMsg srcSystemRefId="m2post-150699:4486167-RP22ACC-33179cb3"
+	status="Closed" exceptionRefNumber="60227535"
+	xmlns="http://www.citi.com/xstream/schemas">
+	<note note="xstream test 2 in UAT" noteTimestamp="1508126400000"
+		lastUpdatedBy="mt66710" userAction="(Manual)Close" />
+</OutBoundNotificationMsg>

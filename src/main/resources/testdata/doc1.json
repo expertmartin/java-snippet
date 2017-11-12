@@ -1,0 +1,30 @@
+{
+    "exceptionsList": [
+        {
+            "id": "87d9d378-785f-4852-be38-fdfafbf385ea",
+            "sourceId": "035506:00LDN823427783",
+            "regHubId": "m2trcshfx20150630165896232",
+            "regReportingRef": "CSHFXFXLMREG2017091303550600LDN823427783",
+            "stream": "m2tr",
+            "flow": "cshfx",
+            "reasonCode": "m2tr_all_trading_capacity_exception",
+            "ruleVersion": "",
+            "description": "The Trading capacity  must not be NULL or blank",
+            "xstreamEligible": true,
+            "notes": null,
+            "attributes": {
+                "mifidTradingCapacity": "DEAL",
+                "execLei": null
+            },
+            "requestedTS": 1506482222558,
+            "createdTS": 1506482222558,
+            "updatedTS": 1507273344240,
+            "updatedSource": "CORE_CHANGE_REQUEST",
+            "status": "PENDING_APPROVAL",
+            "functionalOwner": "BUS",
+            "type": null,
+            "level": "EXCEPTION"
+        }
+    ],
+    "totalRecords": 1
+}

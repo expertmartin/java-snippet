@@ -1,0 +1,29 @@
+{
+    "exceptionsList": [
+        {
+            "id": "1189c741-8804-4aae-b588-a900c8dac908",
+            "sourceId": "perf29eq105430",
+            "regHubId": "m2trcsheqperf29eq105430",
+            "regReportingRef": "CSHEQPRIMO20170929PERF29EQ105430",
+            "stream": "m2tr",
+            "flow": "csheq",
+            "reasonCode": "m2tr_all_buyer_id_type_exception",
+            "ruleVersion": "",
+            "description": "Buyer ID Type indicator validation ",
+            "xstreamEligible": true,
+            "notes": null,
+            "attributes": {
+                "buyerIdType": null
+            },
+            "requestedTS": 1506778994278,
+            "createdTS": 1506778994278,
+            "updatedTS": 1507272688723,
+            "updatedSource": "CORE_CHANGE_REQUEST",
+            "status": "PENDING_APPROVAL",
+            "functionalOwner": "AMC",
+            "type": "DATA_QUALITY",
+            "level": "EXCEPTION"
+        }
+    ],
+    "totalRecords": 1
+}

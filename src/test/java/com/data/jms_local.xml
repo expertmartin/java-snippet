@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<OutBoundNotificationMsg srcSystemRefId="7c3b6732-5029-499c-bf0e-7fe2cf766460"
+	status="Open" exceptionRefNumber="7c3b6732-5029-499c-bf0e-7fe2cf766460"
+	xmlns:ns2="http://www.citi.com/xstream/schemas">
+	<ns2:note note="from local JMS client" noteTimestamp="1507822185"
+		lastUpdatedBy="Xm-Stream" userAction="Add Note" />
+</OutBoundNotificationMsg>

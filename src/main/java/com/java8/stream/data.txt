@@ -1,0 +1,2 @@
+This is a test
+for java8 stream .

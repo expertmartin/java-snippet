@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmFeedMsg senderCompID="REGHUB" requestId="REGHUB_150699:716703417ACR" timestamp="2017-10-24T09:11:29.322-04:00">
+<moEntity entityCode="Trade" srcSystemRef="TPS:QA" srcSystemID="150699:716703417ACR" 
+quantity="1543000.0" side="S" tradeID="m2post-tpsderv-150699:716703417ACR-3" tradeVersion="3" tradeDate="1508845658180000000" firmMnemonic="CITINEW" customerMnemonic="ROYBKSCO" primaryAssetClass="InterestRate" Party1_Mnemonic="CITINEW" Party2_Mnemonic="ROYBKSCO" exceptionID="m2post-150699:716703417ACR-33179cb3" creationTimestamp="1508850689" executionDateTime="1508845658" micId="150699:716703417ACR"/><moException srcSysID="150699:716703417ACR" description="Unknown Reject Code: rejected by TRADEcho" senderCompID="REGHUB" senderExceptionID="m2post-150699:716703417ACR-33179cb3" senderStatus="Resolved" senderExceptionVersion="0" createdBy="bus" firstRaisedDatetime="1508848090128"><exceptionType typeName="RegHUB Rejection">
+<action>close</action>
+</exceptionType>
+</moException>
+</xmFeedMsg>

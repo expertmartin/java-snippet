@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xmFeedMsg senderCompID="REGHUB" requestId="REGHUB_test-m2post-edlfi-qa"
+	timestamp="2017-10-15T22:50:00.474-04:00">
+	<moEntity
+	 entityCode="Trade" 
+	 srcSystemRef="EDEALER"		
+	 srcSystemID="test-m2post-edlfi-qa" 
+
+	 price="95.0" 
+
+	 side="B" 
+
+	 tradeVersion="172641662"		
+
+	 securityID="CZ0001000822" 
+	 securityIDSource="COMMON" 
+	 firmMnemonic="CZ0AFTB"		
+
+	 Party1_Mnemonic="CZ0AFTB" 
+
+	 exceptionID="m2post-test-m2post-edlfi-qa-33179cb3"		
+	 creationTimestamp="1508122200" 
+	 executionDateTime="1507115949"		
+	 executionVenue="XXXX" />
+	<moException
+		 srcSysID="test-m2post-edlfi-qa"		
+		 description="Unknown Reject Code: rejected by TRADEcho" 
+		 senderCompID="REGHUB"		
+		 senderExceptionID="m2post-test-m2post-edlfi-qa-33179cb3" 
+		 senderStatus="Resolved"		
+		 senderExceptionVersion="0" 
+		 createdBy="bus" 
+		 firstRaisedDatetime="1507809620025">
+	<exceptionType typeName="BIZ_EXCEPTION">
+			<action>close</action>
+		</exceptionType>
+	</moException>
+</xmFeedMsg>
